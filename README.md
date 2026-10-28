@@ -4,6 +4,8 @@
 
 Дизайн и логотип сделаны с нуля: тёмный HUD-интерфейс, кислотный лайм, орбитальное ядро и собственная SVG-марка NOVA.
 
+**[Открыть NOVA CORE](https://fuckeeeer.github.io/nova-core/)** · [Исходный код](https://github.com/fuckeeeer/nova-core)
+
 ![Главный экран NOVA CORE](docs/preview.png)
 
 ## Что внутри
